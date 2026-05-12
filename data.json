@@ -1,0 +1,29 @@
+[
+  {
+    "name": "cheburek",
+    "price": 0,
+    "fullkit": false,
+    "tuning": "",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1503740626645291048/1503761411812360264/image.png?ex=6a048673&is=6a0334f3&hm=24cb8d0ecb4df1b3140d8d9861b13892433dc1ff62e14f550959313d04bda68d&",
+    "available": true,
+    "messageId": "1503762265801756764"
+  },
+  {
+    "name": "itali rsx",
+    "price": 0,
+    "fullkit": true,
+    "tuning": "",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1503740626645291048/1503762090652074187/image.png?ex=6a048714&is=6a033594&hm=40478c66ea136cc2eefe886c14df5e5696649233e095a4b2ab6f0e9499b4d8e1&",
+    "available": true,
+    "messageId": "1503762266867240961"
+  },
+  {
+    "name": "vodoo custom",
+    "price": 0,
+    "fullkit": true,
+    "tuning": "",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1503740626645291048/1503762243819405393/image.png?ex=6a048739&is=6a0335b9&hm=99dd2a0d6b5499182ca59418650ab72b5bd23a3a7c079a6a14b41ada0fa66f74&",
+    "available": true,
+    "messageId": "1503762268251488257"
+  }
+]
