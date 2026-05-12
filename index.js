@@ -1,3 +1,7 @@
+require("dotenv").config();
+
+const TOKEN = process.env.TOKEN;
+
 const { 
     Client, 
     GatewayIntentBits, 
