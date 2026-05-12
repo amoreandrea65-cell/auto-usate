@@ -12,8 +12,6 @@ const {
 
 const fs = require("fs");
 
-const CLIENT_ID = "1503701644419010670";
-
 const SHOWROOM_CHANNEL = "showroom-auto";
 const DATA_FILE = "./data.json";
 
