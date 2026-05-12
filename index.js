@@ -13,7 +13,6 @@ const {
 
 const fs = require("fs");
 
-const TOKEN = "MTUwMzcwMTY0NDQxOTAxMDY3MA.GT13NI.acJ0rujCahY5frSFd4JeoeXvHpXfsiz0ul2e4U";
 const CLIENT_ID = "1503701644419010670";
 
 const SHOWROOM_CHANNEL = "showroom-auto";
